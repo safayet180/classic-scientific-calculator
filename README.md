@@ -1,0 +1,2 @@
+# classic-scientific-calculator
+A scientific Calculator Python Application With Source Code developed using Python programming language to calculate and perform all scientific calculation operations. This project is a simple project developed using Python language only. This application features an excellent graphical user interface so that users always like to get engaged within the program. While using the program, users can see signs and keys which they should press or click in order to perform the task.
